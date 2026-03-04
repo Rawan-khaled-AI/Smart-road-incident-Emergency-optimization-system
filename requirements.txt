@@ -1,0 +1,14 @@
+﻿numpy
+pandas
+scikit-learn
+streamlit
+opencv-python
+torch
+yolov5
+geopy
+haversine
+plotly
+folium
+pre-commit
+pytest
+flake8

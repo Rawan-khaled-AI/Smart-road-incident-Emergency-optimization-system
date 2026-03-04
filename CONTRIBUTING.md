@@ -1,0 +1,4 @@
+﻿- كل واحد يعمل فرع feature/<task>
+- اتبعوا convention للـcommit (feat, fix, chore, docs)
+- افتح PR إلى develop واطلب مراجعة
+- لا تدمج إلا بعد approval وCI pass

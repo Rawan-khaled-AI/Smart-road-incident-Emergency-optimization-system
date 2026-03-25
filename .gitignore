@@ -1,16 +1,28 @@
-﻿__pycache__/
+﻿# Python
+__pycache__/
 *.pyc
-.env
+
+# Virtual env
 .venv/
-venv/
-models/
-outputs/
-data/raw/
-*.sqlite3
-.ipynb_checkpoints/
-*.log
+
+# Data
+data/train/
+data/test/
+data/valid/
+data/labels_backup_*/
+
+# Runs & outputs
+runs/
+temp_uploads/
+
+# Models
+*.pt
+
+# Videos & media
+*.mp4
+*.avi
+*.mov
+
+# OS
 .DS_Store
-
-.venv/
-
-.venv/
+Thumbs.db

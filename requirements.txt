@@ -4,7 +4,6 @@ scikit-learn
 streamlit
 opencv-python
 torch
-yolov5
 geopy
 haversine
 plotly

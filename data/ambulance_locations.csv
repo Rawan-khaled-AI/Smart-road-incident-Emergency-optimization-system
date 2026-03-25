@@ -1,0 +1,4 @@
+ambulance_id,name,lat,lon,available
+AMB01,Nasr City,30.0600,31.2500,1
+AMB02,Dokki,30.0400,31.2100,1
+AMB03,Maadi,29.9700,31.2600,1

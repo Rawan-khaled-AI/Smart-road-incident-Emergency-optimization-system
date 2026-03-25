@@ -1,0 +1,7 @@
+train: "E:/Smart-road-incident-Emergency-optimization-system/data/train/images"
+val:   "E:/Smart-road-incident-Emergency-optimization-system/data/valid/images"
+test:  "E:/Smart-road-incident-Emergency-optimization-system/data/test/images"  # اختياري
+
+nc: 2
+names: ['Accident', 'Non Accident']
+
